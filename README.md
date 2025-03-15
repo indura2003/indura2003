@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **contact@indura.me**
 
-<h3 align="left">Connect with me: www.indura.me</h3>
+<h3 align="left">Connect with me: https://indura.me</h3>
 <p align="left">
 </p>
 
