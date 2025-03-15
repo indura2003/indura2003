@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Frameworks.**
 
-- 📫 How to reach me **indura.me**
+- 📫 How to reach me: **contact@indura.me**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: indura.me</h3>
 <p align="left">
 </p>
 
