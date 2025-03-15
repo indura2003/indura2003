@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indura</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Frameworks.**
 
-- 📫 How to reach me **inpitadeniya@gmail.com**
+- 📫 How to reach me **indura.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
